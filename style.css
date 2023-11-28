@@ -1,0 +1,50 @@
+img{
+    width:200px;
+    border-radius: 150px;
+}
+body{
+    text-align: center;
+    
+}
+hr{
+    width:200px;
+    height:2px;
+    background-color: black;
+}
+div{
+    background:linear-gradient(#FFCDD2,#f0b4b0,#b7edfa,#D2E3FC)
+}
+p{
+    font-family: 'Chivo';
+}
+h1{
+    font-family: 'Concert One';
+}
+#a{
+    float:left;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #341f97;
+}
+#r{
+    position:absolute;top:10px;right:30px;z-index: 10;
+    cursor: pointer;
+}
+#a:hover{
+    background-color: #ff6348;
+}
+#c{ 
+    color:#2c2c54;
+}
+#g{ 
+    color:#2c2c54;
+}
+#n{ 
+    color:#2c2c54;
+}
+#x{ 
+    color:#2c2c54;
+}
